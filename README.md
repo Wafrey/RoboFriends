@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+﻿This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## TACHYONS
+
+In order to see the full project with his css you should install Tachyons,
+because I use it for the css. 
+
+Open [https://tachyons.io/](https://tachyons.io/)
 
 ## Available Scripts
 
